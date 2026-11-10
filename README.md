@@ -36,37 +36,6 @@ Live ATS Completeness Score: Real-time feedback bar analyzing resume detail dept
 
 Zero External Dependencies: Built without third-party CDNs, external web fonts, or server APIs—runs safely with your internet turned off.
 
-📋 Done When — Verification Checklist
-
-Criterion
-
-Requirement
-
-Result
-
-Multi-Page Handling
-
-Content flows cleanly across pages without cutting text lines in half (page-break-inside: avoid).
-
-✅ Pass
-
-Selectable PDF Text
-
-Exported PDF allows text selection, search, and copy-paste.
-
-✅ Pass
-
-Data Backup & Restore
-
-JSON files download directly and restore all input fields, dynamic cards, and section ordering.
-
-✅ Pass
-
-Offline Operation
-
-Works flawlessly with Wi-Fi disconnected or under DevTools "Offline" preset.
-
-✅ Pass
 
 🚀 Quick Start
 
