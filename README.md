@@ -83,6 +83,7 @@ ResumeForgeStudio/
 ├── index.html       # Standalone SPA (HTML structure, CSS styles, JS state engine)
 ├── README.md        # Project overview and documentation
 └── LICENSE          # MIT License
+<img width="918" height="422" alt="image" src="https://github.com/user-attachments/assets/fa6ba337-0d70-47a4-98dc-c2c3aad4e726" />
 
 
 🔒 Privacy & Data Ownership
